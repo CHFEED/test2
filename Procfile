@@ -1,1 +1,1 @@
-web: python telegabot.py runningerver 0.0.0.0:$PORT
+python telegabot.py 
