@@ -40,7 +40,7 @@ def main():
     new_offset = None
     today = now.day
     hour = now.hour
-
+    greet_bot.send_message(-1001261311815, 'Deploy done.Start')
     while True:
         greet_bot.get_updates(new_offset)
 
